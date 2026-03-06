@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+html {
+    font-size: 100%;
+}
+
+body {
+    font-size: 0.9rem;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.wrapper {
+    width: 980px;
+    margin: 0 auto;
+}
+
+/*header*/
+#header {
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex;
+    align-items:center;
+    
+}
+#header nav ul {
+    display: flex;
+    gap: 40px;
+}
+#header nav ul li {
+    font-size: 1.130rem;
+}
