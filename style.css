@@ -59,7 +59,9 @@ li {
 }
 
 /*About*/
-
+#About {
+    margin-bottom: 100px;
+}
 #About .Profile {
     display: flex;
     align-items: center;
@@ -73,3 +75,11 @@ li {
     margin-right: 30px;
 }
 
+#Skills {
+    margin-bottom: 100px;
+}
+
+#Skills .Profile li img {
+    width: 50px;
+    height: 50px;
+}
