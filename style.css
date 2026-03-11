@@ -79,7 +79,11 @@ li {
     margin-bottom: 100px;
 }
 
-#Skills .Profile li img {
-    width: 50px;
-    height: 50px;
+#Skills .Profile2 {
+    display: flex;
+    gap: 30px;
+}
+
+#Skills .Profile2 img {
+    width: 30%;
 }
