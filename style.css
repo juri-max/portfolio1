@@ -87,3 +87,17 @@ li {
 #Skills .Profile2 img {
     width: 30%;
 }
+
+#work {
+    margin-bottom: 100px;
+}
+#work a {
+    font-size: 25px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#footer p {
+    font-size: 1.85rem;
+    text-align: center;
+}
