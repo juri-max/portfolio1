@@ -101,3 +101,27 @@ li {
     font-size: 1.85rem;
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    #header nav ul {
+        gap: 20px;
+    }
+    #header nav ul li {
+        font-size: 14px;
+    }
+    .Profile {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+    }
+    .Profile .text {
+        margin-top: 20px;
+    }
+    .Profile2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .Profile2 img {
+        width: 120px;
+    }
+}
